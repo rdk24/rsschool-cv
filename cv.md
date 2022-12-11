@@ -22,3 +22,11 @@ alert( result );
 ```
 ## Experience
 absence
+## Education
+* University: MSU
+* Courses
+	* CS50 lectures
+	* FreeCodeCamp
+	* HTML Academy
+## English
+A1

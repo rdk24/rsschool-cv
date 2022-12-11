@@ -1,1 +1,1 @@
-# rsschool-cv
+https://rdk24.github.io/rsschool-cv/cv
