@@ -1,7 +1,7 @@
-# Erdni kektysho
+# Erdni kektyshov
 ## Contacts
 * location: Moscow, Russia
-* Phone: 89037544133
+* Phone: 89037544144
 * Email: erdnikektyshov@bk.ru
 * GitHub: rdk24
 ## About ME
@@ -29,4 +29,4 @@ absence
 	* FreeCodeCamp
 	* HTML Academy
 ## English
-A1
+A1-working language
