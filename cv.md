@@ -12,7 +12,6 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 * CSS/SASS
 * JavaScript
 * Git
-* VS Code
 ## Code Example
 ```function sum(a, b) {
   return a + b;
